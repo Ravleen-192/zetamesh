@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-zetamesh-dev-102147-authRole",
+      "UnauthRoleArn": "arn:aws:iam::211544418920:role/amplify-zetamesh-dev-102147-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::211544418920:role/amplify-zetamesh-dev-102147-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-zetamesh-dev-102147-deployment",
+      "UnauthRoleName": "amplify-zetamesh-dev-102147-unauthRole",
+      "StackName": "amplify-zetamesh-dev-102147",
+      "StackId": "arn:aws:cloudformation:us-east-1:211544418920:stack/amplify-zetamesh-dev-102147/99162650-2368-11ed-8993-1286787ee283",
+      "AmplifyAppId": "d3c6o9nl4mop8e"
+    }
+  }
+}
