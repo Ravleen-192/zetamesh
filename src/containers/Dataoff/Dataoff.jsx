@@ -15,7 +15,7 @@ const Dataoff = () => (
        </div>
     <div className="zm__Dataoff-container">
        <Feature title="Data Science" text="Build heuristics and AI/ML model to automate your business and operations work flows.​"  />
-      <Feature title="platform" text="Pre-built utilities to connect, ingest, transform and load your on-prem data to AWS cloud.​" />
+      <Feature title="Platform" text="Pre-built utilities to connect, ingest, transform and load your on-prem data to AWS cloud.​" />
     </div>
   </div>
 );
