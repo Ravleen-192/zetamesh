@@ -14,9 +14,9 @@ const Navbar = () => {
         </div>
         <div className="zm__navbar-links_container">
           <p><a href="#home">Home</a></p>
-          <p><a href="#wzm">Our Data Offerings</a></p>
-          <p><a href="#possibility">Engagement  Models</a></p>
-          <p><a href="#features">Past Performance</a></p>
+          <p><a href="#dataoff">Our Data Offerings</a></p>
+          <p><a href="#engmo">Engagement Models</a></p>
+          <p><a href="#pastper">Past Performance</a></p>
           {/*<p><a href="#blog">Library</a></p>*/}
         </div>
       </div>
@@ -32,9 +32,9 @@ const Navbar = () => {
         <div className="zm__navbar-menu_container scale-up-center">
           <div className="zm__navbar-menu_container-links">
           <p><a href="#home">Home</a></p>
-          <p><a href="#wzm">Our Data Offerings</a></p>
-          <p><a href="#possibility">Engagement  Models</a></p>
-          <p><a href="#features">Past Performance</a></p>
+          <p><a href="#datamo">Our Data Offerings</a></p>
+          <p><a href="#engmo">Engagement Models</a></p>
+          <p><a href="#pp">Past Performance</a></p>
           </div>
           <div className="zm__navbar-menu_container-links-sign">
             <p>Sign in</p>
